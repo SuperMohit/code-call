@@ -3,7 +3,7 @@
 **Version:** 0.1 (draft for build/handoff)
 **One-line:** 
 
-A live, voice-based meeting simulator where an engineer presents/defends work to a room of AI personas grounded in their actual codebase — improving both communication *and* codebase understanding, with a review-mode redo loop and a per-area mastery map.
+A live, voice-based meeting simulator where an engineer presents/defends work to a room of AI personas grounded in their actual codebase — improving both communication *and* codebase understanding, with a review-mode redo loop and a per-area mastery map. I see many generic tools to improve communication and others to improve codebase understanding. This merges both.
 
 ---
 
